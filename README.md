@@ -12,7 +12,8 @@ Si no estás acostumbrado a esto, puede parecerte un peñazo, pero, las descarga
 
 Si consigues bajarte bien el código podrás hacer animaciones como esta:
 
-[![Animación de un logo empresarial](http://img.youtube.com/vi/6plLftGUp1g/0.jpg)](http://www.youtube.com/watch?v=6plLftGUp1g "Portada")
+[![Animación de un logo empresarial](http://img.youtube.com/vi/6plLftGUp1g/0.jpg)](https://user-images.githubusercontent.com/72135540/105980544-49d4ab80-6095-11eb-8464-521e6a7efc4b.mp4
+ "Portada")
   
   
 ## Sobre mi
