@@ -38,9 +38,10 @@ Durante la carrera, me especialicé en cálculos computacionales, termodinámica
 💻 Python
 💻 Octave
 
-##Contacto
+## Contacto
+
 Puedes ver mi perfil profesional en linkedin:   https://www.linkedin.com/in/iago-ubeira-martinez/
 Si tienes interés sigueme, ya que, como tengo afán por aprender algo todos los días, seguro que te acabo sorprendiendo 🤩
 
 
-#Gracias por tu visita !!!
+# Gracias por tu visita !!!
